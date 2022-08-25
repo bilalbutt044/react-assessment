@@ -1,3 +1,8 @@
+# How it works
+
+I have used static data that will show plates information on page load. It contains Code, price and Name. And with each plate information i am showing Add buttton which will add plate information in the basket on onclick.
+
+I did code in sach a way that i stays flexible and maintainable.
 
 # Getting Started with Create React App
 
