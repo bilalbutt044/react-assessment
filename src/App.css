@@ -1,0 +1,40 @@
+.app {
+  padding: 20px;
+}
+p { margin: 0;}
+
+.delivery-rates {
+  text-align: center;
+  background-color: red;
+  color: white;
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  left: 0;
+}
+
+.offer {
+  display: flex;
+  align-items: center;
+}
+.offer .heading {
+  font-size: 2em;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.offer .content {
+  font-size: 20px;
+  padding-top: 8px;
+}
+.product-container {
+  display: flex;
+  column-gap: 32px;
+  margin-top: 20px;
+}
+.product-container button{
+  background-color: blue;
+  color: white;
+  border: transparent;
+  border-radius: 4px;
+  padding: 10px 15px;
+}
